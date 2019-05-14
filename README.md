@@ -1,12 +1,21 @@
 === Featured Image Custom Link ===
+
 Contributors: mitalideva, viitorcloudvc
+
 Donate link: https://viitorcloud.com/donate
+
 Tags: Featured Image Custom Link, Custom Url to Featured Image,Custom Link, External Link, External Link to Featured Image, Custom link to Post Image, Custom link to Page Image, Custom link to custom post Image
+
 Requires at least: 3.8
+
 Tested up to: 5.2
+
 Requires PHP: 5.2.4
+
 Stable tag: 3.2.0
+
 License: GPLv3
+
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
